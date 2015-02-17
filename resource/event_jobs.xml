@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data date-time-format="iso8601" >
+
+	<event 
+		start="1975-09"
+		end="1982-05"
+		isDuration="true"
+		title="South Central Bell"
+		icon="dull-blue-circle.png"
+		classname="job_event"
+	>j_scb.html</event>
+
+	<event 
+		start="1982-05"
+		end="1985-06"
+		isDuration="true"
+		title="Jeffcoat Mechanical"
+		classname="job_event"
+	>j_jeffcoat.html</event>
+
+	<event 
+		start="1985-07"
+		end="2007-11"
+		isDuration="true"
+		title="Nortel Networks"
+		classname="job_event"
+	>j_nortel.html</event>
+
+	<event 
+		start="2008-01"
+		end="2011-01"
+		isDuration="true"
+		title="PPD, Inc"
+		classname="job_event"
+	>j_ppd.html</event>
+
+	<event 
+		start="2011-01"
+		end="2015"
+		isDuration="true"
+		title="Quintiles"
+		icon="dark-red-circle.png"
+		classname="job_event"
+	>j_quintiles.html</event>
+
+</data>

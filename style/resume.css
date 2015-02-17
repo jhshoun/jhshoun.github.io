@@ -1,0 +1,38 @@
+
+/* These css rules are used to modify the display of events with classname attribute */
+
+.timeline-band-0 .timeline-ether-bg {
+	background-color: white;
+}
+
+.job_event {
+	font-variant: small-caps; 
+	font-weight: bold;
+	font-size: 9pt;
+	color: darkblue;
+}
+
+.tape-skill_event {
+	background-color: gold;
+}
+
+.tape-skill_tech {
+	background-color: green;
+}
+
+.skill_tech, .skill_event {
+	font-variant: small-caps; 
+	font-weight: bold;
+	font-size: 9pt;
+	color: black;
+}
+
+.milestone_event {
+	font-variant: small-caps; 
+	font-weight: bold;
+	font-size: 9pt;
+	color: darkred;
+	font-color: black;
+}
+
+

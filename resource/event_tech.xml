@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data date-time-format="iso8601" >
+
+	<event 
+			start="1972-01" end="1982-01" isDuration="true"
+			title="FORTRAN"
+			classname="skill_event">
+		Started coding with punched cards and moved on to the latest
+		technology -- online timesharing (with a teletype and modem).
+		First useful applications developed in FORTRA.
+		Also learned the importance of good design to support
+		maintenance and future requirements 
+		(spaghetti code can be very hard to digest later).
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="1973-01" end="1986-01" isDuration="true"
+			title="BASIC"
+			classname="skill_event">
+			A PDP 11/40, a teletype, 8K of RAM, and paper tape. What else could you want?
+			Once the PC appeared, found I could make a living coding.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="1983-01" end="2003-01" isDuration="true"
+			title="C"
+			classname="skill_event">
+		In the beginning it was just me and the white book (K&amp;R);
+		but a door to everything. Spent most of career writing C, but it has
+		been a while (except for the occasional C# now).
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="1983-05" end="2008-01" isDuration="true"
+			title="UNIX, BSD, Linux"
+			classname="skill_tech">
+		First love? Maybe. It is still my favorite development platform.
+		Even exiled to the land of Windows I keep the GNU tools available
+		so that I can run the shell for command line work. You never know
+		when you might need a quick AWK script. 
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="1984-03" end="2015-01" isDuration="true"
+			title="PC-DOS, Windows ..."
+			classname="skill_tech">
+		The platform I love to hate. Have still not escaped.
+		Can configure a server and IIS -- but I don't have to
+		enjoy it.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="1989-01" end="2015-01" isDuration="true"
+			title="Oracle"
+			classname="skill_event">
+		There have been a couple other relational DBs in my life,
+		but Oracle is still the main one. It's all about the SQL.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="1994-01" end="2006-05" isDuration="true"
+			title="Smalltalk"
+			classname="skill_event">
+		This is where objects became real. The Smalltalk world was
+		a little off the main stream, but it was the basis for learning
+		proper OO design, patterns, and iterative development.
+		The instant gratification was good too.
+		(Java owes Smalltalk a lot.)
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="1996-04" end="2015-01" isDuration="true"
+			title="Java"
+			classname="skill_event">
+		Things have come a long way since animated Duke
+		applets in a browser. Java is my main coding expression these days.
+		I can build a UI if required (it may not be pretty), 
+		but backend services and integration are where I like to work.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="1996-10" end="2015-01" isDuration="true"
+			title="HTML, CSS, Javascript, XML/XSL, AJAX"
+			classname="skill_event">
+		Confession time here -- when I first saw a website in Mozilla -- I thought
+		the technology was a fad. Now I'm posting a resume in HTML. Since then I've
+		touched it all: Javascript hosted in the page with jQuery and server side 
+		applications using everything from plain JSP to complete UI frameworks (Vaadin).
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="2009-07" end="2015-01" isDuration="true"
+			title="web services (SOAP, REST)"
+			classname="skill_event">
+		Have developed new web services and extended existing ones using
+		a variety of frameworks (Axis 1/2, Apache CXF, and even Microsoft WCF).
+		While most of my work has been service development there have been a couple
+		client applications in Java and Windows .NET.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+	<event 
+			start="2011-08" end="2015-01" isDuration="true"
+			title="C#, .NET"
+			classname="skill_event">
+		VisualStudio is still not my favorite IDE, but it does work.
+		So my old C skills have slightly resurrected.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+</data>

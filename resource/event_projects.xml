@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data date-time-format="iso8601" >
+
+	<event 
+		start="1976-01"
+		title="line forecasting"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		This replaced a tedious manual calculation process (done
+		by hand on a 10-key calculator). The real bonus was that the output
+		was formatted for direct submission to another batch process. This removed
+		the need for manually transcribing data and eliminated keystroke errors.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="1983-01"
+		title="maintenance scheduling"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		This was a commercial application that handled equipment inventory and scheduled
+		maintenance for very large mechanical and electrical installations
+		(hospitals, campuses, commercial buildings). Written during the early days of the PC,
+		when those devices were a novelty and viewed skeptically by computer departments -- 
+		but viewed as magic by others.
+		&lt;br/&gt;
+		&lt;br/&gt;
+		This was before the days of libraries and windowing systems. So I developed a window 
+		'template' that made it possible to generate a screen layout from configuration data.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="1986-02"
+		title="shop aids"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		For custom circuit boards there are still manual steps and assembly technicians
+		require specific instructions for each board. This system replaced paper manuals
+		with online step-by-step instructions displayed on a graphics terminal. The 'cool' factor
+		was a bitmap picture of the circuit board that highlighted the assembly instructions
+		-- this was done on a character terminal with primitive memory mapped graphics -- the data
+		was mapped from a CAD system and combined with annotations.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="1987-12"
+		title="machine automation"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		Possibly the most fun project ever -- getting to watch a robot run my software.
+		Inserting ICs and components on a circuit board is done by machine and previously
+		machines were programmed manually with a blank board and a large X-Y plotter. 
+		I developed an application that took CAD data directly from the designers, performed
+		the required coordinate transformations, generated the insertion machine code,
+		and loaded directly into the equipment (instead of paper tape).
+		The time to generate automation programs was reduced from
+		8-12 hours to 1 minute and errors virtually eliminated.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="1990-05"
+		title="pricing system"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		The golden years and the last of the great waterfall projects. This was
+		my first large team project to generate quotations for large telephone switch systems.
+		I led/mentored ex-cobol mainframe developers
+		in UNIX and C. It was the company's first large client-server application
+		and run over TCP/IP.
+		&lt;br/&gt;
+		&lt;br/&gt;
+		The key challenge was implementing the myriad pricing policies that had been
+		negotiated. The solution was a forward-chaining inference engine (rules engine)
+		that was linked into the application that allowed defining any pricing strategy
+		imaginable (and salesmen can be very imaginative). My one experience with AI.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="1993-10"
+		title="global pricing system"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		The first interative development project on a grand scale --
+		with an equally grand failure.
+		This was the company's first attempt at a large object-oriented
+		application. Some things were done right (we received excellent
+		training beforehand); others were done poorly and have been well
+		documented in Dilbert. There were dark days, but design skills acquired
+		while learning Smalltalk have served well since then.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="1995-10"
+		end="2007-11"
+		isDuration="true"
+		title="odds &amp; ends"
+		classname="milestone_event"
+		color="indianred"
+		textColor="darkred"
+	>
+		From the global project wreckage a group of mentors
+		was formed to mentor other groups in object-oriented 
+		design, development, and tools. We worked with other 
+		IT groups to train them and build actual systems.
+		We moved away from Smalltalk and it's been Java ever since.
+		The group expanded from mentoring to managing the re-use
+		library and then to technical standards (my role).
+		&lt;br/&gt;
+		&lt;br/&gt;
+		Eventually I became involved in the deployment of the corporate
+		document management system and worked on system design, performance
+		tuning, system interfaces, and end-user training. A little of
+		evertything. So from a single large scale project to a variety of
+		small efforts that had to be run in parallel.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2008-06"
+		title="workflows"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		Automating business processes, collecting requirements, 
+		and implementing in a workflow engine.
+		Useful yes, glamorous and exciting -- not really.
+		But a very good way to learn what the business was about.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2009-06"
+		title="process integration"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		No system is an island anymore. The challenge now is to automate 
+		data and process exchange between very disparate systems.
+		&lt;br/&gt;
+		&lt;br/&gt;
+		This project presented interesting technical challenges. I built
+		a web for moving content and workflows into the target system, 
+		but no one on the client system knew how to build a SOAP client.
+		So I built the client end as well using Java and packaging in an
+		Oracle stored procedure that ran directly from the database.
+		The client system only had to execute a SQL statement to effect 
+		the web service and transfer the data.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2010-06"
+		title="portlets and web pages"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		Part of another large scale project. Learned a lot,
+		worked hard, but it was a death march.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2011-06"
+		title="Peoplesoft intergration"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		Technical lead for a project to integrate
+		Peoplsoft with a document management system.
+		The interesting component was a Windows service written
+		in C# and .NET that scanned incoming faxes (TIF images)
+		and decoded 3of9 barcodes to determine filing.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2011-10"
+		title="web services"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		Designed and implemented a web service for integration
+		with the corporate document respository. It supported 
+		document submission and retrieval.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2012-04"
+		title="more web services"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		More document respository intergration, but in this case
+		existing services had to be extended and new ones developed
+		to allow routing to various target systems. 
+		&lt;br/&gt;
+		&lt;br/&gt;
+		Developed a web service client in C# and .NET that was
+		then linked as a DLL into an existing Windows desktop application.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2012-12"
+		title="web applications"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		I've done the odd webpage in HTML or JSP for small utility
+		web tools. This was taking over and extending an existing application
+		where the server side was written in Java and the client as a JSP
+		site with an extensive custom Javascript framework.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2013-08"
+		title="bigger web applications"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		So from maintaining existing applications, I moved to designing
+		an entirely new system composed of multiple web services (now using RESTful)
+		and an end-user web interface. I was responsible for 
+		some coding as well as managing off-shore developers.
+		&lt;br/&gt;
+		&lt;br/&gt;
+		The user interface was developed using the Vaadin UI framework.
+		This actually makes user applications a joy to design. An MVP pattern
+		was used that allowed a return to 'traditional' development, but 
+		with a web deployment.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2014-05"
+		title="even more web services"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+	>
+		Bigger, better, and delivered on time.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="1997-12"
+		end="2015-02"
+		isDuration="true"
+		title="Open Text Livelink"
+		classname="milestone_event"
+		color="indianred"
+		textColor="darkred"
+	>
+		Livelink was adopted as the corporate standard for content
+		management and I was identified as the lead technical resource
+		for the global deployment. The final deployment was three large
+		Livelink clusters with over 30 servers and 3 terabytes of document
+		storage.
+		&lt;br/&gt;
+		My initial role was server engineering, capacity planning, and then
+		performance improvement. This moved on to custom module and feature
+		development in oscript. I've done extensive work with workflows, 
+		event handlers, and reporting. Now most of my work is intergration
+		with other systems by designing and implementing custom web services
+		that integrate with Content Server 10 API.
+		&lt;br/&gt;
+	</event>
+
+</data>
