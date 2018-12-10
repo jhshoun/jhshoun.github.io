@@ -36,9 +36,9 @@
 
 	<event 
 		start="2011-01"
-		end="2015"
+		end="2018"
 		isDuration="true"
-		title="Quintiles"
+		title="Quintiles / IQVIA"
 		icon="dark-red-circle.png"
 		classname="job_event"
 	>j_quintiles.html</event>
