@@ -45,7 +45,7 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="1984-03" end="2015-01" isDuration="true"
+			start="1984-03" end="2021-01" isDuration="true"
 			title="PC-DOS, Windows ..."
 			classname="skill_tech">
 		The platform I love to hate. Have still not escaped.
@@ -55,11 +55,13 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="1989-01" end="2015-01" isDuration="true"
+			start="1989-01" end="2021-01" isDuration="true"
 			title="Oracle"
 			classname="skill_event">
 		There have been a couple other relational DBs in my life,
 		but Oracle is still the main one. It's all about the SQL.
+		Have coded PL/SQL and embedded Java classes in the Oracle
+		server.
 		&lt;br/&gt;
 		&lt;br/&gt;
 	</event>
@@ -76,18 +78,18 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="1996-04" end="2015-01" isDuration="true"
+			start="1996-04" end="2021-01" isDuration="true"
 			title="Java"
 			classname="skill_event">
 		Things have come a long way since animated Duke
 		applets in a browser. Java is my main coding expression these days.
-		I can build a UI if required (it may not be pretty), 
-		but backend services and integration are where I like to work.
+		I can implement a UI, but UX design is not my forte. 
+		Backend services and system integration are where I like to work.
 		&lt;br/&gt;
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="1996-10" end="2015-01" isDuration="true"
+			start="1996-10" end="2021-01" isDuration="true"
 			title="HTML, CSS, Javascript, XML/XSL, AJAX"
 			classname="skill_event">
 		Confession time here -- when I first saw a website in Mozilla -- I thought
@@ -98,7 +100,7 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="2009-07" end="2015-01" isDuration="true"
+			start="2009-07" end="2021-01" isDuration="true"
 			title="web services (SOAP, REST)"
 			classname="skill_event">
 		Have developed new web services and extended existing ones using
@@ -109,13 +111,15 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="2011-08" end="2015-01" isDuration="true"
+			start="2011-08" end="2016-01" isDuration="true"
 			title="C#, .NET"
 			classname="skill_event">
-		VisualStudio is still not my favorite IDE, but it does work.
-		So my old C skills have slightly resurrected.
+		VisualStudio is still not my favorite IDE, but we can work 
+		together when required.
+		So my old C skills have slightly re-incarnated as C#.
 		&lt;br/&gt;
 		&lt;br/&gt;
 	</event>
+
 
 </data>

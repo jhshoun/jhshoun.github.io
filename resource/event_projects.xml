@@ -182,7 +182,7 @@
 
 	<event 
 		start="2011-06"
-		title="Peoplesoft intergration"
+		title="Peoplesoft integration"
 		icon="dark-red-circle.png"
 		classname="milestone_event"
 	>
@@ -214,7 +214,7 @@
 		icon="dark-red-circle.png"
 		classname="milestone_event"
 	>
-		More document respository intergration, but in this case
+		More document respository integration, but in this case
 		existing services had to be extended and new ones developed
 		to allow routing to various target systems. 
 		&lt;br/&gt;
@@ -241,17 +241,17 @@
 
 	<event 
 		start="2013-08"
-		title="bigger web applications"
+		title="bespoke web applications"
 		icon="dark-red-circle.png"
 		classname="milestone_event"
 	>
 		So from maintaining existing applications, I moved to designing
-		an entirely new system composed of multiple web services (now using RESTful)
-		and an end-user web interface. I was responsible for 
-		some coding as well as managing off-shore developers.
+		an entirely new system composed of multiple web services (now using REST)
+		and an end-user web interface. Responsible for 
+		some coding, application review, as well as managing off-shore developers.
 		&lt;br/&gt;
 		&lt;br/&gt;
-		The user interface was developed using the Vaadin UI framework.
+		The user interface was developed using the VAADIN UI framework.
 		This actually makes user applications a joy to design. An MVP pattern
 		was used that allowed a return to 'traditional' development, but 
 		with a web deployment.
@@ -272,9 +272,9 @@
 
 	<event 
 		start="1997-12"
-		end="2015-02"
+		end="2020-12"
 		isDuration="true"
-		title="Open Text Livelink"
+		title="Open Text Content Server 9.x, 10.x, 20.x (Livelink)"
 		classname="milestone_event"
 		color="indianred"
 		textColor="darkred"
@@ -287,10 +287,27 @@
 		&lt;br/&gt;
 		My initial role was server engineering, capacity planning, and then
 		performance improvement. This moved on to custom module and feature
-		development in oscript. I've done extensive work with workflows, 
-		event handlers, and reporting. Now most of my work is intergration
+		development in oscript. I've done extensive work with modules, workflows, 
+		event handlers, and reporting. Now most of my work is integration
 		with other systems by designing and implementing custom web services
 		that integrate with Content Server 10 API.
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2015-06"
+		end="2020-12"
+		isDuration="true"
+		title="SPA (single-page apps)"
+		icon="dark-red-circle.png"
+		classname="milestone_event"
+		color="indianred"
+		textColor="darkred"
+	>
+		Have developed a number of single-page apps (SPA) for rapid
+		delivery of point solutions. Using existing services and UI frameworks
+		like Kendo provide a lightweight, responsive solution.
+		&lt;br/&gt;
 		&lt;br/&gt;
 	</event>
 
