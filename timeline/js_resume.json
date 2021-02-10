@@ -3,7 +3,7 @@
     "id": "js_resume",
     "title": "Coder: an interactive history",
     "focus_date": "2010-01-01 12:00:00",
-    "initial_zoom": 55,
+    "initial_zoom": 40,
     "image_lane_height": 50,
 
     "events": [
@@ -367,6 +367,18 @@
 		"startdate": "2011-01 00:00:00",
 		"enddate": "2017-01 00:00:00",
         "description": "VisualStudio is still not my favorite IDE, but we can work together when required. So my old C skills have slightly re-incarnated as C#.",
+        "span_color": "#ffd700",
+        "high_threshold": 60,
+        "importance": 50,
+		"date_display": "year",
+		"icon": "circle_yellow.png"
+	},
+	{
+		"id": "jsr-10",
+		"title": "Spring Boot",
+		"startdate": "2019-01 00:00:00",
+		"enddate": "now",
+        "description": "This is the Spring I've been waiting for. Building services and apps is fun and fast.",
         "span_color": "#ffd700",
         "high_threshold": 60,
         "importance": 50,
