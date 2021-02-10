@@ -3,7 +3,7 @@
     "id": "js_resume",
     "title": "Coder: an interactive history",
     "focus_date": "2010-01-01 12:00:00",
-    "initial_zoom": 40,
+    "initial_zoom": 38,
     "image_lane_height": 50,
 
     "events": [
@@ -369,7 +369,7 @@
         "description": "VisualStudio is still not my favorite IDE, but we can work together when required. So my old C skills have slightly re-incarnated as C#.",
         "span_color": "#ffd700",
         "high_threshold": 60,
-        "importance": 20,
+        "importance": 40,
 		"date_display": "year",
 		"icon": "circle_yellow.png"
 	},
