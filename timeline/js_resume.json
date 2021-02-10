@@ -2,8 +2,8 @@
 {
     "id": "js_resume",
     "title": "Coder: an interactive history",
-    "focus_date": "2001-01-01 12:00:00",
-    "initial_zoom": 45,
+    "focus_date": "2010-01-01 12:00:00",
+    "initial_zoom": 55,
     "image_lane_height": 50,
 
     "events": [
