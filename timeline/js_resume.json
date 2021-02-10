@@ -369,12 +369,12 @@
         "description": "VisualStudio is still not my favorite IDE, but we can work together when required. So my old C skills have slightly re-incarnated as C#.",
         "span_color": "#ffd700",
         "high_threshold": 60,
-        "importance": 50,
+        "importance": 20,
 		"date_display": "year",
 		"icon": "circle_yellow.png"
 	},
 	{
-		"id": "jsr-10",
+		"id": "jsr-t10",
 		"title": "Spring Boot",
 		"startdate": "2019-01 00:00:00",
 		"enddate": "now",
