@@ -161,8 +161,8 @@ h4 {
 }
 
 .nav ul li.nav-active#intro {
-	margin-left:0px;
-	padding-left:16px;
+	margin-left: 0px;
+	padding-left: 16px;
 }
 
 
@@ -172,10 +172,10 @@ h4 {
 
 
 .page-content {
-	margin:60px auto 0 auto;
-	width:90%;
-	min-height:900px;
-	padding:32px;
+	margin: 60px auto 0 auto;
+	width: 90%;
+	min-height: 900px;
+	padding: 32px;
 }
 
 

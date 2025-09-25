@@ -40,9 +40,16 @@
 
 	</div>
 
-	<p class='intro'>
-		Use mouse to drag the timeline and scroll wheel to zoom in/out 
-		or use the control on the right. Click entries for details. Use legend to filter.
+	<p class='intro' style="width: 50%">
+		This is another version of a timeline resume. 
+		This page uses a Javascript framework called TimeGlider.
+		It has a full set of features that allow the user to 
+		and browse, filter, and search the data.
+	</p>
+	<p class='intro' style="width: 50%">
+		Use the mouse to drag the timeline and the scroll wheel to zoom in/out. 
+		Click any entry to display details.
+		The legends panel on the right can be used to filter the entries.
 	</p>
 
 	<!-- target div for the widget -->
@@ -83,12 +90,14 @@
 	var opts = {
 					min_zoom: 1, 
 					max_zoom: 55, 
-					image_lane_height: 100,
+					image_lane_height: 50,
 					icon_folder: "timeglider/icons/",
 					data_source: "js_resume.json",
 					timezone: "-05:00",
+					inverted: false,
 					constrain_to_data: false
 		}
+
 	
 	function tinit()
 	{ 
