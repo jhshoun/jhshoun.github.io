@@ -4,7 +4,7 @@
 	<event 
 		start="1976-01"
 		title="line forecasting"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		This replaced a tedious manual calculation process (done
@@ -18,7 +18,7 @@
 	<event 
 		start="1983-01"
 		title="maintenance scheduling"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		This was a commercial application that handled equipment inventory and scheduled
@@ -37,7 +37,7 @@
 	<event 
 		start="1986-02"
 		title="shop aids"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		For custom circuit boards there are still manual steps and assembly technicians
@@ -53,7 +53,7 @@
 	<event 
 		start="1987-12"
 		title="machine automation"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		Possibly the most fun project ever -- getting to watch a robot run my software.
@@ -71,7 +71,7 @@
 	<event 
 		start="1990-05"
 		title="pricing system"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		The golden years and the last of the great waterfall projects. This was
@@ -92,7 +92,7 @@
 	<event 
 		start="1993-10"
 		title="global pricing system"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		The first interative development project on a grand scale --
@@ -136,7 +136,7 @@
 	<event 
 		start="2008-06"
 		title="workflows"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		Automating business processes, collecting requirements, 
@@ -150,7 +150,7 @@
 	<event 
 		start="2009-06"
 		title="process integration"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		No system is an island anymore. The challenge now is to automate 
@@ -171,7 +171,7 @@
 	<event 
 		start="2010-06"
 		title="portlets and web pages"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		Part of another large scale project. Learned a lot,
@@ -183,7 +183,7 @@
 	<event 
 		start="2011-06"
 		title="Peoplesoft integration"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		Technical lead for a project to integrate
@@ -198,7 +198,7 @@
 	<event 
 		start="2011-10"
 		title="web services"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		Designed and implemented a web service for integration
@@ -211,7 +211,7 @@
 	<event 
 		start="2012-04"
 		title="more web services"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		More document respository integration, but in this case
@@ -228,7 +228,7 @@
 	<event 
 		start="2012-12"
 		title="web applications"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		I've done the odd webpage in HTML or JSP for small utility
@@ -242,7 +242,7 @@
 	<event 
 		start="2013-08"
 		title="bespoke web applications"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		So from maintaining existing applications, I moved to designing
@@ -262,7 +262,7 @@
 	<event 
 		start="2014-05"
 		title="even more web services"
-		icon="dark-red-circle.png"
+		icon="../js/images/dark-red-circle.png"
 		classname="milestone_event"
 	>
 		Bigger, better, and delivered on time.
@@ -272,7 +272,7 @@
 
 	<event 
 		start="1997-12"
-		end="2020-12"
+		end="2021-06"
 		isDuration="true"
 		title="Open Text Content Server 9.x, 10.x, 20.x (Livelink)"
 		classname="milestone_event"
@@ -299,14 +299,30 @@
 		end="2020-12"
 		isDuration="true"
 		title="SPA (single-page apps)"
-		icon="dark-red-circle.png"
 		classname="milestone_event"
 		color="indianred"
 		textColor="darkred"
 	>
 		Have developed a number of single-page apps (SPA) for rapid
-		delivery of point solutions. Using existing services and UI frameworks
+		delivery of point solutions. Using existing services, frameworks (JQuery), and UI frameworks
 		like Kendo provide a lightweight, responsive solution.
+		&lt;br/&gt;
+		&lt;br/&gt;
+	</event>
+
+	<event 
+		start="2022-01"
+		end="2025-06"
+		isDuration="true"
+		title="Autonomous Vehicle Robotics"
+		classname="milestone_event"
+		color="indianred"
+		textColor="darkred"
+	>
+		Worked on the TONY system for vehicle automation. 
+		Contributed to the MAX software engine that senses, plans, and then controls the vehicle. 
+		In addition to coding (Java) vehicle manuevers worked on integrating the TONY kit 
+		with various vans, off-road, and city buses.
 		&lt;br/&gt;
 		&lt;br/&gt;
 	</event>

@@ -6,7 +6,6 @@
 		end="1982-05"
 		isDuration="true"
 		title="South Central Bell"
-		icon="dull-blue-circle.png"
 		classname="job_event"
 	>j_scb.html</event>
 
@@ -36,11 +35,18 @@
 
 	<event 
 		start="2011-01"
-		end="2020-12"
+		end="2021-12"
 		isDuration="true"
 		title="IQVIA (Quintiles)"
-		icon="dark-red-circle.png"
 		classname="job_event"
 	>j_quintiles.html</event>
+
+	<event 
+		start="2022-01"
+		end="2024-12"
+		isDuration="true"
+		title="Perrone Robotics, Inc"
+		classname="job_event"
+	>j_perrone.html</event>
 
 </data>

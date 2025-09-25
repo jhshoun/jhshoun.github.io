@@ -14,7 +14,7 @@ function onLoad()
 	var band1, band2, band3;
 
 	// current date to initialize the position
-	var d = Timeline.DateTime.parseGregorianDateTime("2014")
+	var d = Timeline.DateTime.parseGregorianDateTime("2020")
 
 	// event sources
 	eventJobs = new Timeline.DefaultEventSource();
@@ -23,8 +23,8 @@ function onLoad()
 
 	// set up the theme
 	theme = Timeline.ClassicTheme.create();
-	theme.timeline_start = new Date(Date.UTC(1970,0,01,00,00,00,0));
-	theme.timeline_stop  = new Date(Date.UTC(2020,0,01,00,00,00,0));
+	theme.timeline_start = new Date(Date.UTC(1975,0,1,0,0,0,0));
+	theme.timeline_stop  = new Date(Date.UTC(2026,0,1,0,0,0,0));
 
 	theme.event.bubble.width = 450;
 	theme.event.bubble.height = 300;
@@ -38,7 +38,7 @@ function onLoad()
 
 	// 3 bands for jobs, tech expertise, and achievements
 	band1 = {
-				width:          "32%", 
+				width:          "35%", 
 				intervalUnit:   Timeline.DateTime.YEAR, 
 				intervalPixels: 50,
 				theme:          theme,
@@ -46,7 +46,7 @@ function onLoad()
 				layout:         'original' 
 			};
 	band2 = {
-				width:          "50%", // set to a minimum, autoWidth will then adjust
+				width:          "45%", // set to a minimum, autoWidth will then adjust
 				intervalUnit:   Timeline.DateTime.DECADE, 
 				intervalPixels: 250,
 				eventSource:    eventTech,
@@ -54,7 +54,7 @@ function onLoad()
 				layout:         'original' 
 			};
 	band3 = {
-				width:          "18%", // set to a minimum, autoWidth will then adjust
+				width:          "20%", // set to a minimum, autoWidth will then adjust
 				intervalUnit:   Timeline.DateTime.DECADE, 
 				intervalPixels: 250,
 				eventSource:    eventJobs,
@@ -73,6 +73,20 @@ function onLoad()
 	bandInfos[1].highlight = true;
 	bandInfos[2].syncWith = 0;
 	bandInfos[2].highlight = true;
+
+	for (var i = 0; i < bandInfos.length; i++) {
+		bandInfos[i].decorators = [
+			new Timeline.PointHighlightDecorator(
+				{
+					date:       "Sun Dec 15 2024 01:01:01 GMT-0500",
+					color:      "#000",
+					opacity:    70,
+					cssClass:   'p-highlight1'
+				}
+			)
+		];
+	}
+
 
 	// create the Timeline
 	tl = Timeline.create(document.getElementById("tl"), bandInfos, Timeline.HORIZONTAL);
@@ -146,5 +160,6 @@ function bubbleDetail(elmt, theme, labeller)
 }
 
 Timeline.DefaultEventSource.Event.prototype.fillInfoBubble = bubbleDetail;
+
 
 

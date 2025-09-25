@@ -34,7 +34,7 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="1983-05" end="2008-01" isDuration="true"
+			start="1983-05" end="2025-06" isDuration="true"
 			title="UNIX, BSD, Linux"
 			classname="skill_tech">
 		First love? Maybe. It is still my favorite development platform.
@@ -45,7 +45,7 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="1984-03" end="2021-01" isDuration="true"
+			start="1984-03" end="2024-12" isDuration="true"
 			title="PC-DOS, Windows ..."
 			classname="skill_tech">
 		The platform I love to hate. Have still not escaped.
@@ -55,7 +55,7 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="1989-01" end="2021-01" isDuration="true"
+			start="1989-01" end="2022-12" isDuration="true"
 			title="Oracle"
 			classname="skill_event">
 		There have been a couple other relational DBs in my life,
@@ -78,7 +78,7 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="1996-04" end="2021-01" isDuration="true"
+			start="1996-04" end="2025-01" isDuration="true"
 			title="Java"
 			classname="skill_event">
 		Things have come a long way since animated Duke
@@ -89,7 +89,7 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="1996-10" end="2021-01" isDuration="true"
+			start="1996-10" end="2025-06" isDuration="true"
 			title="HTML, CSS, Javascript, XML/XSL, AJAX"
 			classname="skill_event">
 		Confession time here -- when I first saw a website in Mozilla -- I thought
@@ -100,7 +100,7 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="2009-07" end="2021-01" isDuration="true"
+			start="2009-07" end="2021-12" isDuration="true"
 			title="web services (SOAP, REST)"
 			classname="skill_event">
 		Have developed new web services and extended existing ones using
@@ -111,7 +111,7 @@
 		&lt;br/&gt;
 	</event>
 	<event 
-			start="2011-08" end="2016-01" isDuration="true"
+			start="2011-08" end="2018-01" isDuration="true"
 			title="C#, .NET"
 			classname="skill_event">
 		VisualStudio is still not my favorite IDE, but we can work 
